@@ -1,0 +1,7 @@
+{
+  "teacher": {
+    "display_name": "Mergington Teacher",
+    "role": "teacher",
+    "password_hash": "mergington-demo-salt$6ff2fd9ac6851b95308c2e13f0272f038162ee81553be1a8a8d83f694668f891"
+  }
+}
